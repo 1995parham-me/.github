@@ -6,5 +6,5 @@ In these repositories, I’ve curated a collection of straightforward yet effect
 to be particularly useful in my role as a developer.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1995parham-me/.github/main/profile/img/me.png" alt="me" height="150px" />
+  <img src="https://raw.githubusercontent.com/1995parham-me/.github/main/profile/img/me.png" alt="me" height="250px" />
 </p>
